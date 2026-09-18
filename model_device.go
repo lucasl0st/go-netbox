@@ -2149,7 +2149,6 @@ func (o *Device) UnmarshalJSON(data []byte) (err error) {
 		"url",
 		"display",
 		"name",
-		"description",
 	}
 
 	// defaultValueFuncMap captures the default values for required properties.
